@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sunny-cat-repository/static/css/main.dbaad75b.css",
+    "main.js": "/sunny-cat-repository/static/js/main.7cb9f44e.js",
+    "static/js/787.6c465896.chunk.js": "/sunny-cat-repository/static/js/787.6c465896.chunk.js",
+    "index.html": "/sunny-cat-repository/index.html",
+    "main.dbaad75b.css.map": "/sunny-cat-repository/static/css/main.dbaad75b.css.map",
+    "main.7cb9f44e.js.map": "/sunny-cat-repository/static/js/main.7cb9f44e.js.map",
+    "787.6c465896.chunk.js.map": "/sunny-cat-repository/static/js/787.6c465896.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbaad75b.css",
+    "static/js/main.7cb9f44e.js"
+  ]
+}
